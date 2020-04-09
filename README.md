@@ -1,2 +1,2 @@
 # chencodec
-my codec
+optimization of SVT-AV1
